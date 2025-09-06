@@ -17,7 +17,7 @@ It allows you to:
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/road-obstacle-detection.git
+git clone https://github.com/classytamil/Road-Obstacle-Detection.git
 cd road-obstacle-detection
 ```
 
@@ -66,16 +66,6 @@ Then open your browser at `http://localhost:8501`.
 ### Modes:
 - **Upload Image** → Upload a `.jpg` / `.jpeg` / `.png` image and detect obstacles.  
 - **Live Webcam** → Turn on your webcam and see detections in real-time.  
-
----
-
-## 📸 Example  
-
-**Detection on Uploaded Image:**  
-![Example Image Detection](https://via.placeholder.com/800x400.png?text=Example+Detection)  
-
-**Live Webcam Detection:**  
-![Example Webcam](https://via.placeholder.com/800x400.png?text=Live+Webcam+Detection)  
 
 ---
 
